@@ -1,0 +1,7 @@
+streamlit
+python-pptx
+sentence-transformers
+faiss-cpu
+openai
+pyttsx3
+google-generativeai>=0.1.3
